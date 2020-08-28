@@ -1,0 +1,95 @@
+{
+  "name": "einnos",
+  "title": "Einnos",
+  "description": "<p>Outside the earthly realms, floating in the Æther, there is a place where deities play. It is a demiplane older than most others, and as enigmatic as any. It is a demiplane wracked with both corruption and miracles, and here there are no limits to the abominations and the blessings that can befall its inhabitants.</p>\n<p> </p>\n<p>Life is hard, and none have chosen it. Every being on Einnos was stolen to, born upon, or created there. Be it able-bodied hero, infant child, or devouring beast, none have chosen to call the soil of Einnos their homeland, though few would know otherwise. Life survives there and humanity bands together in settlements and cities, creating order out of adversity. In contrast, there is little stability to be found outside the walls, and even still, each day inside full of strife. And what may seem as chaos to a mortal mind, is all part of the games more complex and imposing than any other. Einnos is the board of the Gods.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "My DDB Spells",
+      "name": "ddb-spells",
+      "package": "world",
+      "path": "packs/ddb-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\ddb-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Items",
+      "name": "ddb-items",
+      "package": "world",
+      "path": "packs/ddb-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\ddb-items.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "My DDB Monsters",
+      "name": "ddb-monsters",
+      "package": "world",
+      "path": "packs/ddb-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\ddb-monsters.db"
+    },
+    {
+      "label": "_Imported Spells",
+      "entity": "Item",
+      "name": "imported-spells",
+      "path": "packs/imported-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\imported-spells.db"
+    },
+    {
+      "label": "_Imported Monsters",
+      "entity": "Actor",
+      "name": "imported-monsters",
+      "path": "packs/imported-monsters.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\imported-monsters.db"
+    },
+    {
+      "label": "_Imported Items",
+      "entity": "Item",
+      "name": "imported-items",
+      "path": "packs/imported-items.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\imported-items.db"
+    },
+    {
+      "label": "Tournament of Sephir",
+      "entity": "Actor",
+      "name": "tournament-of-sephir",
+      "path": "packs/tournament-of-sephir.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\bmg50\\OneDrive\\D&D\\Foundry\\Data\\worlds\\einnos\\packs\\tournament-of-sephir.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "gabrielL.jpg",
+  "system": "dnd5e",
+  "coreVersion": "0.6.5",
+  "systemVersion": 0.93,
+  "nextSession": "2020-05-25T18:00",
+  "availability": 1,
+  "unavailable": false,
+  "id": "einnos"
+}
